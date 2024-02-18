@@ -15,6 +15,7 @@
 ### Introduction
 
 This is a backend app for basic calculator.
+It is hosted on Heroku: [peterssimplecalculator](https://peters-simple-calculator-fcdedf5377ff.herokuapp.com/docs)
 
 ### Usage
 
