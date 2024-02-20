@@ -8,7 +8,6 @@ class CalculateRequest(BaseModel):
 
 
 class ResultFormat(BaseModel):
-    type: Optional[str] = "numeric"
     color: Optional[str] = None
 
 
